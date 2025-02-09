@@ -1,0 +1,5 @@
+numLista = list(range(1,101))
+sumaValores = sum(numLista)
+mediaValores = sumaValores / len(numLista)
+print(f"La suma de valores es {sumaValores}")
+print(f"La media es {mediaValores}")
